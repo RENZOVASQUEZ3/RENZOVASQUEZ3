@@ -1,11 +1,16 @@
-# Bienvenidos 
+# Bienvenid@
 
-Tengo conocimientos de programacion en Java NetBeans , Visual Studio y Bases de Datos ya sea con SQL Management Studio o MySQL 
-
-
-![image](https://github.com/)
+Soy un programador con conocimientos en Java NetBeans , Visual Studio y Bases de Datos ya sea SQL Management Studio o MySQL 
 
 
-Lenguajes Manejados : HTML , CSS , JAVA , VB , C#
+
+
+
+
+
+Lenguajes Manejados: 
+HTML , CSS , JAVA , VB , C#
+
+
 
 
