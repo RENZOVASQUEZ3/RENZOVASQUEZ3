@@ -5,6 +5,6 @@
 - 👓 Estudiante de Ingenerieria ...
 - 🖥️ Desarrollador Web ...
 
-Lenguajes Manejados : HTML , CSS , .NET , JAVA , VB , C#
+Lenguajes Manejados : HTML , CSS , JAVA , VB , C#
 
 
