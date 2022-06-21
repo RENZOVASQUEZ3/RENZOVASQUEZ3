@@ -1,6 +1,4 @@
-Bienvenidos 
-
-Soy Programador 
+# Bienvenidos 
 
 Tengo conocimientos de programacion en NetBeans , Visual Studio y Bases de Datos ya sea con SQL Management Studio , MySQL 
  
