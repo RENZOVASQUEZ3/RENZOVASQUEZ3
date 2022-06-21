@@ -1,6 +1,4 @@
-### Hola , Bienvendo 
 
- 
  
 - 👓 Estudiante de Ingenerieria ...
 - 🖥️ Desarrollador Web ...
